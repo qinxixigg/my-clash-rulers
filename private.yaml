@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN,linux.do
-  - DOMAIN,kufei.org
-  - DOMAIN-SUFFIX,qingwapt.com
-  - DOMAIN-SUFFIX,icc2022.com
-  - DOMAIN,yiso.fun
+    - linux.do
+    - kufei.org
+    - qingwapt.com
+    - icc2022.com
+    - yiso.fun
