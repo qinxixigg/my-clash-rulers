@@ -1,5 +1,8 @@
 # 代理补充列表
 
+# 测试下机场
+DOMAIN-KEYWORD,getfree
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
