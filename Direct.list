@@ -12,11 +12,12 @@ DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,qingwapt.com
 DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,yiso.fun
+DOMAIN-SUFFIX,kufei.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
-
+DOMAIN-KEYWORD,qxx21
 
 # 360
 DOMAIN-SUFFIX,360.com
@@ -880,6 +881,6 @@ DOMAIN-SUFFIX,xauat6.edu.cn
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,bt.neu6.edu.cn
 DOMAIN-SUFFIX,tracker.icc2022.xyz
-DOMAIN-SUFFIX,tracker.qingwa.pro
 DOMAIN-SUFFIX,tracker.qingwapt.com
 DOMAIN-SUFFIX,tracker.qingwa.pro
+DOMAIN-SUFFIX,tracker.qingwapt.org
