@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,pt.ldoapp.tech
 # 域名关键字匹配
 DOMAIN-KEYWORD,qxx21
 
-#teacker
+# teacker
 DOMAIN-SUFFIX,0123456789nonexistent.com
 DOMAIN-SUFFIX,0d.kebhana.mx
 DOMAIN-SUFFIX,1337.abcvg.info
