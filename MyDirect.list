@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,qxx21.xyz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,qxx21
+DOMAIN-KEYWORD,aliyun
+DOMAIN-KEYWORD,dyndns
 
 # teacker
 DOMAIN-SUFFIX,0123456789nonexistent.com
