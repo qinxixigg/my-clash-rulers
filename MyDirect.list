@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,dnsapi.cn
+DOMAIN-SUFFIX,checkip.synology.com
 
 # MyList
 # 域名后缀匹配
