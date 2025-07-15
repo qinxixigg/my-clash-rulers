@@ -1,5 +1,16 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# DDNS
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,akamai.com
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,dnsapi.cn
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
