@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,yiso.fun
 DOMAIN-SUFFIX,kufei.org 
 DOMAIN-SUFFIX,pt.ldoapp.tech
-DOMAIN-SUFFIX,ptfans.cc
 DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,qxx21.xyz
 DOMAIN-SUFFIX,gamegameept.com
@@ -27,8 +26,9 @@ DOMAIN-KEYWORD,qxx21
 DOMAIN-KEYWORD,aliyun
 DOMAIN-KEYWORD,dyndns
 DOMAIN-KEYWORD,pttime
-
+DOMAIN-KEYWORD,ptfans
 # teacker
+DOMAIN-SUFFIX,ptfans.cc
 DOMAIN-SUFFIX,0123456789nonexistent.com
 DOMAIN-SUFFIX,0d.kebhana.mx
 DOMAIN-SUFFIX,1337.abcvg.info
