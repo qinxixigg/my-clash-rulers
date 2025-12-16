@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,idcflare.com
 DOMAIN-SUFFIX,newapi.netlib.re
 DOMAIN-SUFFIX,sdwfger.edu.kg
-DOMAIN-SUFFIX,chanel.weyolo.com
+# DOMAIN-SUFFIX,chanel.weyolo.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
