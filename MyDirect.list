@@ -2,7 +2,7 @@
 
 # DDNS
 DOMAIN-SUFFIX,checkip.synology.com
-
+DOMAIN-SUFFIX,ddns.synology.com
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
