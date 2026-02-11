@@ -26,6 +26,11 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
+DOMAIN-SUFFIX,1.1.1.1/dns-query
+DOMAIN-SUFFIX,8.8.8.8/dns-query
+DOMAIN-SUFFIX,dns.cloudflare.com/dns-query
+DOMAIN-SUFFIX,dns.google/dns-query
+DOMAIN-SUFFIX,dns.google:853
 
 # 国外DNS IP
 IP-CIDR,8.8.4.4/32,no-resolve
