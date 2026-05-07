@@ -14,8 +14,8 @@ DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,argotunnel.com
-
-
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,ipip.net
 
 # PT站
 DOMAIN-SUFFIX,qingwapt.com
