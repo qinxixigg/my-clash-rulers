@@ -3,6 +3,8 @@
 # DDNS
 DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,ddns.synology.com
+
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
@@ -14,6 +16,7 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,argotunnel.com
 
 
+
 # PT站
 DOMAIN-SUFFIX,qingwapt.com
 # DOMAIN-SUFFIX,icc2022.com
@@ -21,14 +24,19 @@ DOMAIN-SUFFIX,yiso.fun
 DOMAIN-SUFFIX,kufei.org 
 DOMAIN-SUFFIX,pt.ldoapp.tech
 DOMAIN-SUFFIX,pttime.org
-DOMAIN-SUFFIX,qxx21.xyz
+DOMAIN-SUFFIX,gigolo21.top
 DOMAIN-SUFFIX,gamegameept.com
 
+
 # 域名关键字匹配
-DOMAIN-KEYWORD,qxx21
+DOMAIN-KEYWORD,gigolo21
 DOMAIN-KEYWORD,aliyun
 DOMAIN-KEYWORD,dyndns
 DOMAIN-KEYWORD,pttime
+DOMAIN-KEYWORD,argotunnel
+
+
+
 # teacker
 DOMAIN-SUFFIX,0123456789nonexistent.com
 DOMAIN-SUFFIX,0d.kebhana.mx
