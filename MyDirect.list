@@ -348,3 +348,6 @@ DOMAIN-SUFFIX,tracker.qingwa.pro
 DOMAIN-SUFFIX,tracker.qingwapt.org
 DOMAIN-SUFFIX,tracker1.icc2022.de
 DOMAIN-SUFFIX,tracker3.czhch.com
+
+# Cloudflare DNS API (ddns-go 更新域名用，必须直连，不能依赖代理节点)
+DOMAIN,api.cloudflare.com
