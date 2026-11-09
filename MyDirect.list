@@ -4,6 +4,15 @@
 DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,ddns.synology.com
 
+# 国家电网 95598 (sgcc_electricity 抓电费)
+# 走代理会被风控(RK001)，必须直连
+DOMAIN-SUFFIX,95598.cn
+DOMAIN-SUFFIX,sgcc.com.cn
+
+# 腾讯验证码 TJCaptcha (95598 登录用)
+DOMAIN-SUFFIX,turing.captcha.qcloud.com
+DOMAIN-SUFFIX,captcha.qq.com
+
 
 # MyList
 # 域名后缀匹配
