@@ -351,3 +351,6 @@ DOMAIN-SUFFIX,tracker3.czhch.com
 
 # Cloudflare DNS API (ddns-go 更新域名用，必须直连，不能依赖代理节点)
 DOMAIN,api.cloudflare.com
+
+# 我的 VPS（SSH 管理必须直连，代理会劫持 22 端口）
+IP-CIDR,23.95.191.250/32
